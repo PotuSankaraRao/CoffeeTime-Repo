@@ -64,7 +64,7 @@ header{
 	}
 	#section2{
 	background-color:#DBBCA0; /*#ffe6cc;*/
-	height:300px;
+	height:auto;
 	width:100%;
 	display:flex;
 	}
@@ -80,7 +80,7 @@ header{
 	font-family:verdana;
 	font-size:20px;
 	color:#301f15;
-	margin-left:70px;
+	margin-left:60px;
 	}
 	#pmargin{
 	margin-top:-10px;
@@ -88,6 +88,15 @@ header{
 	#ptext{
 	font-size:15px;
 	color:black;
+	padding-right:15px;
+	}
+	#ptext-1{
+	font-size:15px;
+	font-weight: bold;
+	color:#301f15;
+	margin-bottom: 20px;
+	text-align: justify;
+	padding-right: 15px;
 	}
 	#summary{
 	color:white;
